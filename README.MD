@@ -14,7 +14,3 @@ With an improved prediction model in place, Red Hat will be able to more efficie
 ## **Note:** You can look the data and the real competition in kaggle here: 
 
 ### - [Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value) 
-
-##  And if you want see my notebook in kaggle, is here: 
-
-### - [Predicting Red Hat Business Value](https://www.kaggle.com/dataengel/predicting-red-hat-business-value)  
