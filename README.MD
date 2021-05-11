@@ -8,3 +8,13 @@ Like most companies, Red Hat is able to gather a great deal of information over 
 In this competition, Kagglers are challenged to create a classification algorithm that accurately identifies which customers have the most potential business value for Red Hat based on their characteristics and activities.
 
 With an improved prediction model in place, Red Hat will be able to more efficiently prioritize resources to generate more business and better serve their customers.
+
+--- 
+
+## **Note:** You can look the data and the real competition in kaggle here: 
+
+### - [Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value) 
+
+##  And if you want see my notebook in kaggle, is here: 
+
+### - [Predicting Red Hat Business Value](https://www.kaggle.com/dataengel/predicting-red-hat-business-value)  
